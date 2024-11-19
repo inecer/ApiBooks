@@ -128,3 +128,5 @@ C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\bin\Debug\net8.0\runtimes\win-x64\nat
 C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\obj\Debug\net8.0\ApiBooks.sourcelink.json
+C:\Users\PC\.ssh\Projets\ApiBooks\ApiBooks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
