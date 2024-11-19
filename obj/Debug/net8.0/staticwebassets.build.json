@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xk7snmlFDKPGjV4Iz5KHZbQYcFAH06rgsBB+kxAG+iM=",
+  "Source": "ApiBooks",
+  "BasePath": "_content/ApiBooks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
