@@ -1,5 +1,9 @@
 using ApiBooks.Entities;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using MySql.EntityFrameworkCore.Extensions;
 using Swashbuckle.AspNetCore.Annotations;
